@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+    "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\Taras_Hrytsenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "outputPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "packagesPath": "C:\\Users\\Taras_Hrytsenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "outputPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -97,6 +97,24 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -112,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\Taras_Hrytsenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -129,17 +147,17 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "C:\\Users\\Taras_Hrytsenko\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\Taras_Hrytsenko\\Desktop\\AspNetCoreCoursePluralsight\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }
@@ -151,27 +169,28 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.1, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.1.9, )"
+              "version": "[2.2.3, )"
             }
           },
           "imports": [
