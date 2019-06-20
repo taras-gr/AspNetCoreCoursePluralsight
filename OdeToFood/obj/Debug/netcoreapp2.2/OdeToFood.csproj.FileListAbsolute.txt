@@ -38,3 +38,12 @@ C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug
 C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.csproj.CopyComplete
 C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.dll
 C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.pdb
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\Delete.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\_Summary.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\Components\RestaurantCount\Default.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\R2\Create.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\R2\Delete.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\R2\Details.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\R2\Edit.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\R2\Index.g.cshtml.cs
+C:\Users\Taras_Hrytsenko\Desktop\AspNetCoreCoursePluralsight\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\ClientRestaurants.g.cshtml.cs
